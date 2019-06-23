@@ -1,4 +1,4 @@
-name: heads_web3
+name: rpaadvancedbot
 channels:
 - defaults
 - main
