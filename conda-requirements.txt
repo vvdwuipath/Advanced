@@ -1,4 +1,3 @@
-name: Advanced
 channels:
 - defaults
 - main
