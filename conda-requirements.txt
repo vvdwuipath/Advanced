@@ -1,107 +1,95 @@
-channels:
-- defaults
-- main
-- conda-forge
-- matsci
-- abinit
-- anaconda
-- free
-- mro
-- pro
-- msys
-dependencies:
-- alabaster
-- anaconda-project
-- astropy
-- beautifulsoup4
-- bitarray
-- bkcharts
-- blaze
-- boto
-- bottleneck
-- cffi
-- chardet
-- click
-- clyent
-- colorama
-- conda-verify
-- contextlib2
-- cryptography
-- cycler
-- cython
-- cytoolz
-- datashape
-- docutils
-- entrypoints
-- fastcache
-- gevent
-- glob2
-- greenlet
-- h5py
-- html5lib
-- idna
-- itsdangerous
-- jinja2
-- jsonschema
-- kiwisolver
-- lazy-object-proxy
-- llvmlite
-- locket
-- lxml
-- markupsafe
-- matplotlib
-- mccabe
-- mistune
-- mpmath
-- msgpack-python
-- nbconvert
-- nbformat
-- nose
-- numba
-- numexpr
-- numpy
-- odo
-- pandas
-- pandocfilters
-- partd
-- pickleshare
-- pillow
-- pluggy
-- psutil
-- pycosat
-- pycparser
-- pycrypto
-- pycurl
-- pyflakes
-- pygments
-- pyodbc
-- pyparsing
-- pywavelets
-- pyyaml
-- pyzmq
-- qtawesome
-- qtconsole
-- requests
-- rope
-- scikit-image
-- scikit-learn
-- scipy
-- seaborn
-- singledispatch
-- six
-- snowballstemmer
-- sphinxcontrib-websupport
-- sqlalchemy
-- statsmodels
-- sympy
-- tblib
-- testpath
-- traitlets
-- unicodecsv
-- urllib3
-- wcwidth
-- webencodings
-- wrapt
-- xlrd
-- xlwt
-- zict
+alabaster
+anaconda-project
+astropy
+beautifulsoup4
+bitarray
+bkcharts
+blaze
+boto
+bottleneck
+cffi
+chardet
+click
+clyent
+colorama
+conda-verify
+contextlib2
+cryptography
+cycler
+cython
+cytoolz
+datashape
+docutils
+entrypoints
+fastcache
+gevent
+glob2
+greenlet
+h5py
+html5lib
+idna
+itsdangerous
+jinja2
+jsonschema
+kiwisolver
+lazy-object-proxy
+llvmlite
+locket
+lxml
+markupsafe
+matplotlib
+mccabe
+mistune
+mpmath
+msgpack-python
+nbconvert
+nbformat
+nose
+numba
+numexpr
+numpy
+odo
+pandas
+pandocfilters
+partd
+pickleshare
+pillow
+pluggy
+psutil
+pycosat
+pycparser
+pycrypto
+pycurl
+pyflakes
+pygments
+pyodbc
+pyparsing
+pywavelets
+pyyaml
+pyzmq
+qtawesome
+qtconsole
+requests
+rope
+scikit-image
+scikit-learn
+scipy
+seaborn
+singledispatch
+six
+snowballstemmer
+sphinxcontrib-websupport
+sqlalchemy
+statsmodels
+sympy
+tblib
+testpath
+traitlets
+unicodecsv
+urllib3
+wcwidth
+webencodings
+wrapt
+xlrd
+xlwt
+zict
