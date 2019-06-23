@@ -1,4 +1,4 @@
-name: rpaadvancedbot
+name: Advanced
 channels:
 - defaults
 - main
