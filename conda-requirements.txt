@@ -54,6 +54,7 @@ pandocfilters
 partd
 pickleshare
 pillow
+pip
 pluggy
 psutil
 pycosat
